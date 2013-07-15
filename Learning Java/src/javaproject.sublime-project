@@ -4,6 +4,10 @@
 		{
 			"follow_symlinks": true,
 			"path": "C:\\Users\\nadams\\Documents\\GitHub\\workspacejava\\Learning Java\\src"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/nickadams/Desktop/workspacejava/Learning Java/src"
 		}
 	]
 }
